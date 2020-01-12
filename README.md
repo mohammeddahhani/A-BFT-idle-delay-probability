@@ -3,8 +3,6 @@
 This repository contains a mathematical model to compute the probability distribution of the number of A-BFT periods before
 an IEEE 802.11ad station enters idle state.
 
-More info in : [1]
-
 # Features:
 
 - First we find the distribution of the number of attempts until a given slot of the A-BFT period
