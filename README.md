@@ -9,7 +9,7 @@ an IEEE 802.11ad station enters idle state.
 - We then deduce the distribution of the number of attempts in an A-BFT period.
 - We extend the last step to find the distribution of the number of attempts in k periods.
 - The probability that `k` periods later the station enters idle state is equal to the probability a station reaches `MaxAttempts`
-after `k` periods since the last time it was active.
+after `k` periods since the last time it became active.
 
 # Requires:
 
